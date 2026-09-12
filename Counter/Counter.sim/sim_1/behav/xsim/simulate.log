@@ -1,0 +1,11 @@
+Time resolution is 1 ps
+PASS: LOAD TEST
+PASS: COUNT UP to 13
+PASS: COUNT UP & OVERFLOW
+PASS: HOLD EN
+PASS: COUNT DOWN & OVERFLOW
+PASS: PRIORITY LOAD & EN
+PASS: BONUS TEST UP
+PASS: BONUS TEST DOWN
+PASS: BONUS TEST RST
+$finish called at time : 412 ns : File "D:/Learn/robotdreams/Homework_002/Counter/Counter.srcs/sim_1/new/tb_counter.v" Line 103
